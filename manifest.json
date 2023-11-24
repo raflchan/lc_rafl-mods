@@ -1,7 +1,7 @@
 {
     "name": "rafl_modpack",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/raflchan/lc_rafl-mods",
     "description": "Hey guys, it's just me having a funny time with my friends. :)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
