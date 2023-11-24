@@ -1,0 +1,16 @@
+{
+    "name": "rafl_modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Hey guys, it's just me having a funny time with my friends. :)",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.4.1",
+        "tinyhoot-ShipLoot-1.0.0",
+        "Pooble-LCBetterSaves-1.4.0",
+        "BatTeam-LethalFashion-1.0.3",
+        "2018-LC_API-1.3.0",
+        "vasanex-ItemQuickSwitch-1.1.0",
+        "anormaltwig-LateCompany-1.0.3"
+    ]
+}
