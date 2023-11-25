@@ -1,6 +1,6 @@
 {
     "name": "rafl_modpack",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/raflchan/lc_rafl-mods",
     "description": "Hey guys, it's just me having a funny time with my friends. :)",
     "dependencies": [
@@ -11,6 +11,7 @@
         "BatTeam-LethalFashion-1.0.3",
         "2018-LC_API-1.3.0",
         "vasanex-ItemQuickSwitch-1.1.0",
-        "anormaltwig-LateCompany-1.0.3"
+        "anormaltwig-LateCompany-1.0.4",
+        "AlexCodesGames-AdditionalSuits-1.0.1"
     ]
 }
