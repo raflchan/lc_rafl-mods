@@ -4,10 +4,12 @@ yo
 
 ## Changelog
 
+### v1.5.0
+- Removed `KoderTeh-Boombox_Controller-1.0.5`
+
 ### v1.4.0
 - Added `anormaltwig-TerminalExtras-1.0.0`
 - Added `Parax342-VerboseCompany-1.0.0`
-- Added `rafl-rafl_modpack-1.3.0`
 - Added `Sligili-More_Emotes-1.0.0`
 - Added `sunnobunno-BonkHitSFX-1.0.1`
 

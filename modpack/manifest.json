@@ -1,6 +1,6 @@
 {
     "name": "rafl_modpack",
-    "version_number": "1.4.0",
+    "version_number": "1.5.0",
     "website_url": "https://github.com/raflchan/lc_rafl-mods",
     "description": "Hey guys, it's just me having a funny time with my friends. :)",
     "dependencies": [
@@ -10,7 +10,6 @@
         "anormaltwig-TerminalExtras-1.0.0",
         "BatTeam-LethalFashion-1.0.3",
         "BepInEx-BepInExPack-5.4.2100",
-        "KoderTeh-Boombox_Controller-1.0.5",
         "notnotnotswipez-MoreCompany-1.5.1",
         "Parax342-VerboseCompany-1.0.0",
         "Pooble-LCBetterSaves-1.4.0",
