@@ -1,6 +1,6 @@
 {
     "name": "rafl_modpack",
-    "version_number": "1.5.0",
+    "version_number": "1.6.0",
     "website_url": "https://github.com/raflchan/lc_rafl-mods",
     "description": "Hey guys, it's just me having a funny time with my friends. :)",
     "dependencies": [
@@ -13,8 +13,8 @@
         "notnotnotswipez-MoreCompany-1.5.1",
         "Parax342-VerboseCompany-1.0.0",
         "Pooble-LCBetterSaves-1.4.0",
+        "rafl-BonkHitSfxFixed-1.0.2",
         "Sligili-More_Emotes-1.0.0",
-        "sunnobunno-BonkHitSFX-1.0.1",
         "sunnobunno-YippeeMod-1.2.1",
         "tinyhoot-ShipLoot-1.0.0",
         "vasanex-ItemQuickSwitch-1.1.0"

@@ -4,6 +4,10 @@ yo
 
 ## Changelog
 
+### v1.6.0
+- Added `rafl-BonkHitSfxFixed-1.0.2`
+- Removed `sunnobunno-BonkHitSFX-1.0.1`
+
 ### v1.5.0
 - Removed `KoderTeh-Boombox_Controller-1.0.5`
 
